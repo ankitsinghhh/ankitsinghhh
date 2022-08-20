@@ -49,6 +49,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsinghhh&show_icons=true&locale=en&layout=compact" alt="ankitsinghhh" /></p>
 
+<hr>
+
 <img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" alt="coding img" width="300" align="right">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsinghhh&show_icons=true&locale=en" alt="ankitsinghhh" /></p>
