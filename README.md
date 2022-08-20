@@ -51,7 +51,7 @@
 
 
 
-<img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" alt="coding img" width="300" align="right">
+<img src="https://www.cleverfond.com/wp-content/uploads/2022/01/46207-programmer-1.gif" alt="coding img" width="300" align="right">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsinghhh&show_icons=true&locale=en" alt="ankitsinghhh" /></p>
 
