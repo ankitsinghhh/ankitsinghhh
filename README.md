@@ -19,7 +19,7 @@
 
 
 
-- ⚡ Fun fact **I used to draw traditional art but I was very bad at colouring and had habit of  leaving colouring all the time**
+- ⚡ Fun fact **I love to draw but hate colouring**
 
 
 <h3 align="left">Trophies:</h3>
