@@ -44,12 +44,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankitsinghhh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
-
-<p align="center"><img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  ></p>
-
 -->
+
+<!-- ### ✍️ Random Dev Quote -->
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
+<!--  <p align="center"><img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  ></p> -->
+
+
+
 
 
 
