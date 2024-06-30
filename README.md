@@ -49,7 +49,4 @@
 
 <p align="center"><img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  ></p>
 
----
 
-
-<img align="center" src="https://images2.imgbox.com/67/20/A4MVnITZ_o.png" alt="coding img"  >
