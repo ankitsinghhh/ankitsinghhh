@@ -46,12 +46,12 @@
 
 # 📊 GitHub Stats:
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ankitsinghhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
     </td>
   </tr>
