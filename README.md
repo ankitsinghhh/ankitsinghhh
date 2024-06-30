@@ -46,17 +46,19 @@
 
 # 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitsinghhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ankitsinghhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsinghhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  </div>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghhh&theme=dark&hide_border=false">
 </p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
