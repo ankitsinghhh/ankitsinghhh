@@ -7,13 +7,13 @@
 </div>
 
 
-- 🔭 I’m currently working on **My Portfolio Project**
+- 🔭 I’m currently working in **Tractrix Opto Dynamics Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
 
 
 
-- 💬 Ask me about **Html, CSS and Javascript**
+- 💬 Ask me about **Html, CSS and Javascript, ReactJs, Python**
 
 - 📫 How to reach me **ankitsingh79834@gmail.com**
 
