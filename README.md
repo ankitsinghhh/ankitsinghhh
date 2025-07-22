@@ -13,7 +13,7 @@
 
 
 
-- 💬 Ask me about **Html, CSS and Javascript, ReactJs, Python**
+- 💬 Ask me about **NodeJs, ReactJs, Express, Mongoose, Html, CSS and Javascript, Python and C++**
 
 - 📫 How to reach me **ankitsingh79834@gmail.com**
 
