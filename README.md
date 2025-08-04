@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in **Tractrix Opto Dynamics Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms in C++**
+- 🌱 I’m currently learning **Data Structures and Algorithms in C++,Python**
 
 
 
