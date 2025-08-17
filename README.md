@@ -7,7 +7,7 @@
 </div>
 
 
-- 🔭 I’m currently working in **Tractrix Opto Dynamics Pvt. Ltd.** in Hyderabad,Telangana.
+- 🔭 I’m currently working in **Tractrix Opto Dynamics Pvt. Ltd.** in Hyderabad.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++,Python**
 
